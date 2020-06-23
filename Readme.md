@@ -6,7 +6,7 @@ You can [buy this kit from
 tindie](https://www.tindie.com/products/18263/).
 
 See [my blog
-post](https://blog.oxplot.com/usb-pd-standalone-sink-controller/) for a
+post](https://blog.oxplot.com/usb-pd-standalone-sink-controller/)<sup>[archive.org](https://web.archive.org/web/20191108070615/https://blog.oxplot.com/usb-pd-standalone-sink-controller/)</sup> for a
 bit of background.
 
 # Flashing configuration with Arduino
